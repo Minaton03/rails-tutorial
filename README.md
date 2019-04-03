@@ -1,3 +1,30 @@
+# Ruby on Rails 完走計画
+
+期限：4/11
+
+4/3
+chapter 3~5
+4/4
+chapter 6~7
+4/5
+chapter 8
+4/6
+chapter 9~11
+4/7
+chapter 12
+4/8
+chapter 13
+4/9
+chapter 14
+4/10.11
+バッファ
+
+# Ruby on Rails 課題完走計画
+
+期限：4/22
+
+内容が不明のため未定
+
 # Ruby on Rails チュートリアルのサンプルアプリケーション
 
 これは、次の教材で作られたサンプルアプリケーションです。   
